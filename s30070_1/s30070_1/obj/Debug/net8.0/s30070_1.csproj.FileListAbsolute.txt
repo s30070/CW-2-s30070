@@ -1,0 +1,14 @@
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\bin\Debug\net8.0\s30070_1.exe
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\bin\Debug\net8.0\s30070_1.deps.json
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\bin\Debug\net8.0\s30070_1.runtimeconfig.json
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\bin\Debug\net8.0\s30070_1.dll
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\bin\Debug\net8.0\s30070_1.pdb
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.AssemblyInfoInputs.cache
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.AssemblyInfo.cs
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.csproj.CoreCompileInputs.cache
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.dll
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\refint\s30070_1.dll
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.pdb
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\s30070_1.genruntimeconfig.cache
+C:\Users\offni\RiderProjects\s30070_1\s30070_1\obj\Debug\net8.0\ref\s30070_1.dll
